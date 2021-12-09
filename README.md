@@ -2,7 +2,7 @@
 Example of Bash Loops
 
 
-```
+```bash
 #!/usr/bin/env bash
 
 echo "How Many Loops Do You Want?"
